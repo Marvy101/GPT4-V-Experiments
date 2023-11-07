@@ -1,0 +1,3 @@
+print ('LFG')
+print ('ok')
+
