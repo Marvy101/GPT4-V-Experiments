@@ -1,3 +1,1 @@
-print ('LFG')
-print ('ok')
-
+print('Hello World')
